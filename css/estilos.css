@@ -1,0 +1,54 @@
+body{
+	background:#000;
+}
+h1{
+	color:#334E8A;
+	text-align:center;
+	text-shadow:5px 5px 5px #8891E3;
+}
+*{
+	margin:4;
+	padding:1;
+}
+*{
+	color:white;
+}
+h2{
+	color:aqua;
+	text-align:center;
+	font-family:"myriad pro";
+}
+h1{
+	font-size:35px;
+}
+p{
+	color:gray;
+}
+a{
+	color:blue;
+}
+h2{
+	padding:20;
+}
+div{
+	background:url:(../imagenes/Granger.ico);
+}
+img {
+	border-radius:50%;
+	border:10px solid #fff;
+}
+.menu li{
+	display:inline-block;
+}
+.menu li a{
+	padding:10px 20px;
+	display:inline-block;
+}
+.menu li a:hover{
+	background:#ccc;
+	color:#000;
+}
+input {
+	box-sizing:border-box;
+}
+
